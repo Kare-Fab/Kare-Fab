@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kare-Fab
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me ...
 
 <!---
